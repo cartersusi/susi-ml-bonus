@@ -5,6 +5,9 @@
 
 **CAP4613**
 
+**Repo**:\
+[https://github.com/cartersusi/susi-ml-bonus](https://github.com/cartersusi/susi-ml-bonus)
+
 ## Requirements
 
 [**python3 (venv)**](requirements.txt)
