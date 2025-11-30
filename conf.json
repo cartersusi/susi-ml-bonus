@@ -1,0 +1,5 @@
+{
+  "model_path": "/home/archnv/School/Bonus/models/cat_dog_cnn_23.pth",
+  "cat_dog_images": "/home/archnv/.cache/kagglehub/datasets/karakaggle/kaggle-cat-vs-dog-dataset/versions/1/kagglecatsanddogs_3367a/PetImages",
+  "dog_noise_images": "/home/archnv/School/Bonus/Dog_Noise"
+}

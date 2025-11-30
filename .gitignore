@@ -1,0 +1,16 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+Dog_Noise/
+cpp_models/
+
+models/*
+!models/cat_dog_cnn_23.pth
